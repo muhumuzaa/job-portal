@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NEygreGzRhihzKGH2WumWuzUwvOKXlnT5UMtO7TQRLc=",
+  "Source": "CareerCloud.WebAPI",
+  "BasePath": "_content/CareerCloud.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

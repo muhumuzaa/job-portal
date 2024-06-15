@@ -1,0 +1,12 @@
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\refint\CareerCloud.DataAccessLayer.dll
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll

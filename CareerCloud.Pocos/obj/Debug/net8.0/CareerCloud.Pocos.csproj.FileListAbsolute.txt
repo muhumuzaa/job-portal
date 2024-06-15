@@ -1,0 +1,12 @@
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+C:\Users\AMK\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll

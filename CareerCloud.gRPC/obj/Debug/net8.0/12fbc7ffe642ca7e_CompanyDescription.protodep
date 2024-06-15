@@ -1,0 +1,4 @@
+obj\Debug\net8.0\Protos/CompanyDescription.cs \
+obj\Debug\net8.0\Protos/CompanyDescriptionGrpc.cs: C:/Users/AMK/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/AMK/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/empty.proto\
+ Protos/CompanyDescription.proto

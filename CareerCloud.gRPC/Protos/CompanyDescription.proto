@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+option csharp_namespace = "CareerCloud.gRPC.Protos";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+service CompanyDescription{
+	//read
+	rpc GetCompanyDescription(CompanyDescriptionId) returns (CompanyDescriptionReply);
+
+	//create
+	rpc AddCompanyDescription(CompanyDescriptionRequest) returns (google.protobuf.Empty);
+}
+
+message CompanyDescriptionId{
+	string Id=1;
+}
+
+message CompanyDescriptionReply{
+	string Id=1;
+	string CompanyName=2;
+	string CompanyDescription=3;
+	string Company=4;
+	string LanguageId=5;
+}
+message CompanyDescriptionRequest{
+	string Id=1;
+	string CompanyName=2;
+	string CompanyDescription=3;
+	string Company=4;
+	string LanguageId=5;
+}
+
+message MultipleCompanyDescriptionRequests{
+	repeated string CompanyDescriptionRequest = 1;
+}

@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+option csharp_namespace = "CareerCloud.gRPC.Protos";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+service CompanyJobEducation{
+	//read
+	rpc GetCompanyJobEducation(CompanyJobEducationId) returns (CompanyJobEducationReply);
+
+	//create
+	rpc AddCompanyJobEducation(CompanyJobEducationAddRequest) returns (google.protobuf.Empty);
+}
+
+message CompanyJobEducationId{
+	string Id=1;
+}
+
+message CompanyJobEducationReply{
+	string Id=1;
+	string Job=2;
+	string Major=3;
+	string Importance=4;
+
+}
+message CompanyJobEducationAddRequest{
+	string Id=1;
+	string Job=2;
+	string Major=3;
+	string Importance=4;
+}
+
+message MultipleCompanyJobEducationRequests{
+	repeated string CompanyJobEducationAddRequest = 1;
+}
